@@ -42,7 +42,7 @@ export default function LoginPage() {
   }, [router]);
 
   return (
-    <div className="flex min-h-screen items-center justify-center px-4 py-12 sm:px-6 lg:px-8">
+    <div className="flex min-h-screen items-center justify-center bg-white px-4 py-12 sm:px-6 lg:px-8">
       <div className="w-full max-w-md space-y-8 bg-white/95 p-8 rounded-2xl border border-blue-100/85">
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-slate-900">Sign In</h2>
